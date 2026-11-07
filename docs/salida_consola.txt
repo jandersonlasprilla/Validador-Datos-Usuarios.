@@ -1,0 +1,16 @@
+=== REPORTE DE VALIDACIÓN ===
+Total de registros : 8
+Válidos            : 2
+Inválidos          : 6
+Edad promedio      : 27.0
+Usuarios por ciudad: {'Cali': 1, 'Popayán': 1}
+
+--- Registros con errores ---
+ID 2: correo inválido
+ID 3: nombre vacío
+ID 4: teléfono inválido
+ID 5: edad fuera de rango (18-100)
+ID 6: registro duplicado
+ID 7: edad no numérica
+
+Reporte guardado en reporte.json

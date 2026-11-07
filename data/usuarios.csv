@@ -1,0 +1,9 @@
+id,nombre,correo,telefono,edad,ciudad
+1,Laura Gómez,laura.gomez@example.com,3105551234,28,Cali
+2,Carlos Pérez,carlos.perez@example,3205559876,34,Popayán
+3,,ana.ruiz@example.com,3015550000,22,Santander de Quilichao
+4,Miguel Torres,miguel.torres@example.com,12345,41,Cali
+5,Sofía Martínez,sofia.martinez@example.com,3115551111,17,Bogotá
+6,Laura Gómez,laura.gomez@example.com,3105551234,28,Cali
+7,Julián Ríos,julian.rios@example.com,3125552222,abc,Medellín
+8,Valentina Cruz,valentina.cruz@example.com,3135553333,26,Popayán
